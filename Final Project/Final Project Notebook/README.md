@@ -3,10 +3,8 @@
 
 This directory contains the Exploratory Data Analysis and the real world questions that we have tried to answer through the data
 
-## Table of contents
-
 <!-- TABLE OF CONTENTS -->
-<>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -80,4 +78,3 @@ This directory contains the Exploratory Data Analysis and the real world questio
     </li>
 
   </ol>
-</>
