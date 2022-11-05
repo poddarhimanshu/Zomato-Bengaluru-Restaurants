@@ -30,11 +30,9 @@ This directory contains the Exploratory Data Analysis and the real world questio
     <li>
       <a href="#about-the-project">Neighborhood by rating</a>
     </li>    
-    
     <li>
       <a href="#about-the-project">Neighborhood by cost of food</a>
     </li>    
-    
     <li>
       <a href="#about-the-project">Grouping the neighborhood by the type of restaurant</a>
     </li>    
