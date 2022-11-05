@@ -38,10 +38,9 @@ This directory contains the documentation for the Zomato data and the Python cod
         <li><a href="#prerequisites">Phase I</a></li>
         <li><a href="#installation">Phase II</a></li>
       </ul>
-    </li>
-    
+    </li>    
     <li>
-      <a href="#getting-started">Software Used</a>
+      <a href="#about-the-project">Codes and Scripts</a>
     </li>
   </ol>
 </details>
