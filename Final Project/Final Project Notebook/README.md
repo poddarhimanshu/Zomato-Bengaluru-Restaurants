@@ -4,8 +4,7 @@
 This directory contains the Exploratory Data Analysis and the real world questions that we have tried to answer through the data
 
 <!-- TABLE OF CONTENTS -->
-
-  <summary>Table of Contents</summary>
+## Table of Contents
   <ol>
     <li>
       <a href="#about-the-project">Exploratory Data Analysis</a>
