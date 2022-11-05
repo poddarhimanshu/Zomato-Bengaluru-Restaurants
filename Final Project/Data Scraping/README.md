@@ -6,8 +6,6 @@ This directory contains the documentation for the Zomato data and the Python cod
 ## Table of contents
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">Introduction</a>
@@ -43,4 +41,3 @@ This directory contains the documentation for the Zomato data and the Python cod
       <a href="#about-the-project">Software Used</a>
     </li>
   </ol>
-</details>
