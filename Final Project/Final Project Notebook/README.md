@@ -6,7 +6,7 @@ This directory contains the Exploratory Data Analysis and the real world questio
 ## Table of contents
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -80,4 +80,4 @@ This directory contains the Exploratory Data Analysis and the real world questio
     </li>
 
   </ol>
-</details>
+</>
