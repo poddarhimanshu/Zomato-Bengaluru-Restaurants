@@ -41,6 +41,7 @@ This directory contains the documentation for the Zomato data and the Python cod
     </li>
     
     <li>
-      <a href="#getting-started">Software Used</a></li>
+      <a href="#getting-started">Software Used</a>
+    </li>
   </ol>
 </details>
