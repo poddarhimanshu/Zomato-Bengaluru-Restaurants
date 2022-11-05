@@ -40,7 +40,7 @@ This directory contains the documentation for the Zomato data and the Python cod
       </ul>
     </li>    
     <li>
-      <a href="#about-the-project">Codes and Scripts</a>
+      <a href="#about-the-project">Software Used</a>
     </li>
   </ol>
 </details>
