@@ -29,7 +29,7 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 ---
 **NOTE**
 
-The dataset is available on Zomato and has over 46K downloads and 29K views. Checkout the cool and fascinating analysis kagglers have done on the data.<br>
+The dataset is available on Zomato and has over 49K downloads and 300K views. Checkout the cool and fascinating analysis kagglers have done on the data.<br>
 https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 ---
