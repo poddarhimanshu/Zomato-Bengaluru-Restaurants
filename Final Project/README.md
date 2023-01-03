@@ -1,6 +1,6 @@
 ### Introduction
 
-Food. Everyone loves it, everyone has it. Everyone even talks about it. Food is something we can talk about for hours and hours. India is rightly called the Land of Spices. No country in the world produces as many varieties of spices as India. The restaurant industry in India has witnessed an unprecedented transformation with the entry of a variety of national and international players. This has, in turn, given birth to a huge demand for qualified professionals in the sector and all related industries. Thanks to the technological revolution, Indian restaurant setups have now gone online to gain more customers and serve them better.
+Food, Everyone loves it, everyone has it. Everyone even talks about it. Food is something we can talk about for hours and hours. India is rightly called the Land of Spices. No country in the world produces as many varieties of spices as India. The restaurant industry in India has witnessed an unprecedented transformation with the entry of a variety of national and international players. This has, in turn, given birth to a huge demand for qualified professionals in the sector and all related industries. Thanks to the technological revolution, Indian restaurant setups have now gone online to gain more customers and serve them better.
 
 But the demand-and-supply graph isn’t quite the way it should be. With a noticeable shortage of skilled professionals, the restaurant industry presents a whole gamut of opportunities waiting to be grabbed. Enter culinary arts institutes. Traditional cooking schools and hotel management colleges have now expanded the range of education they offer in order to satisfy industry demands. Indian universities are investing time and money to train students to make them able and employable. 
 
@@ -29,7 +29,7 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
   <li><b>Data Scraping</b>: Contains the code to scrape the data from zomato. The code is from 2019-20 and won't work with the Zomato website now.</li>
   <li><b>Final Project Notebook</b>: Contains the code hat was used to perform EDA, CDA, Visualition, segmentation and clustering using ML models on the data.</li>
   <li><b>Business_Problem.pdf</b>: Why was this project done? Motivation for the project.</li>
-  <li><b>Capstone_Project_Documentation.pdf</b>: Documentation for the project, contains the results of EDA< CDA, Statistics, Machine Learning.</li>
+  <li><b>Capstone_Project_Documentation.pdf</b>: Documentation for the project, contains the results of EDA, CDA, Statistics, Machine Learning.</li>
   <li><b>Data_Description.pdf</b>: Documentation of the data, explaining all the columns and the values it contains.</li>
   <li><b>Presentation.pptx</b>: Short Powerpoint presentation of the results. Please refer <b>Capstone_Project_Documentation.pdf</b> for all the analysis and questions asked from the data.</li>  
 </ul>
