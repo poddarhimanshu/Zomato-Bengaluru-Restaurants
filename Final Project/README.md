@@ -23,6 +23,16 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
   <li>Is a particular neighborhood famous for its own kind of food.</li>
 </ul>
 
+### Project Structure and Content
+<ul>
+  <li><b>Data Cleaning</b>: Contains the code to clean the data after the data was scraped from zomato</li>
+  <li><b>Data Scraping</b>: Contains the code to scrape the data from zomato. The code is from 2019-20 and won't work with the Zomato website now.</li>
+  <li><b>Final Project Notebook</b>: Contains the code hat was used to perform EDA, CDA, Visualition, segmentation and clustering using ML models on the data.</li>
+  <li><b>Business_Problem.pdf</b>: Why was this project done? Motivation for the project.</li>
+  <li><b>Capstone_Project_Documentation.pdf</b>: Documentation for the project, contains the results of EDA< CDA, Statistics, Machine Learning.</li>
+  <li><b>Data_Description.pdf</b>: Documentation of the data, explaining all the columns and the values it contains.</li>
+  <li><b>Presentation.pptx</b>: Short Powerpoint presentation of the results. Please refer <b>Capstone_Project_Documentation.pdf</b> for all the analysis and questions asked from the data.</li>  
+</ul>
 
 ##### “Just so that you have a good meal the next time you step out”
 
